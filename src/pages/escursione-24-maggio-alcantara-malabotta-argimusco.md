@@ -9,7 +9,7 @@ Rainbow Sicily Trek
 
 ## 📍 Ritrovo
 
-- 🕘 Ore 9:00 al Bar dell'Angolo, Gaggi
+- 🕘 Ore **9:00** al [**Bar dell'Angolo**](https://maps.app.goo.gl/P27xUnLMvwrp21bc7), Gaggi
 
 - ☕ Coffee e sistemazione auto (cerchiamo di partire con meno auto possibili).
 
@@ -17,9 +17,9 @@ Rainbow Sicily Trek
 
 - Una breve escursione immersi nella natura, tra cascate, pozze d'acqua cristallina e un momento di relax lungo il fiume.
 
-- Per i più coraggiosi: portate il costume se volete fare un bagno nelle freschissime acque dell'Alcantara! 🥶🌿
+- Per i più coraggiosi: portate il **costume** se volete fare un bagno nelle freschissime acque dell'Alcantara! 🥶🌿
 
-- L'escursione durerà circa 2 ore. Se vi va, potete portare anche un telo per rilassarvi al sole e godervi il posto con calma.
+- L'escursione durerà circa **2 ore**. Se vi va, potete portare anche un **telo** per rilassarvi al sole e godervi il posto con calma.
 
 ## 🥾 Escursione Bosco di Malabotta
 
@@ -29,7 +29,7 @@ Rainbow Sicily Trek
 
 - Il pomeriggio sarà dedicato all'esplorazione del bosco, tra sentieri, panorami e i suggestivi Patriarchi di Malabotta.
 
-- Il percorso previsto è ad anello, lungo circa 9 km, con 4-5 ore di camminata comprese le soste. Se necessario, potremo scegliere un sentiero più semplice per rientrare nei tempi oppure vivere l'esperienza con più calma e relax.
+- Il percorso previsto è ad anello, lungo circa **9 km**, con **4-5 ore** di camminata comprese le soste. Se necessario, potremo scegliere un sentiero più semplice per rientrare nei tempi oppure vivere l'esperienza con più calma e relax.
 
 ## 🌄 Argimusco e tramonto
 
@@ -43,7 +43,7 @@ Rainbow Sicily Trek
 
 - Dopo il tramonto (alle 20:30 circa) rientro verso le auto.
 
-- Arrivo stimato al Bar dell'Angolo alle 22:00.
+- Arrivo stimato al Bar dell'Angolo alle **22:00**.
 
 - Chi vuole può fermarsi a cena nei dintorni 🍽️
 
@@ -59,7 +59,7 @@ Rainbow Sicily Trek
 
 ⚠ Alcuni punti possono essere più impegnativi se ha piovuto di recente; valuteremo eventuali deviazioni sul momento.
 
-Alcune foto dei luoghi che esploreremo! Tutte le foto sono state scattate e sono di proprietà di @s_licciardello.
+Alcune foto dei luoghi che esploreremo! Tutte le foto sono state scattate e sono di proprietà di [@s_licciardello](https://t.me/s_licciardello).
 
 <figure><img src="https://i.postimg.cc/Hn8HTZWq/DSCF4465-Large.jpg" alt=""></figure>
 <figure><img src="https://i.postimg.cc/13vdCkgR/IMG-20260511-093826-790.jpg" alt=""></figure>
