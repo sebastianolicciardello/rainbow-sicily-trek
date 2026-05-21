@@ -2,10 +2,13 @@
 import '../styles/global.css';
 
 const { frontmatter } = Astro.props;
-const title = frontmatter?.title
-  ? `${frontmatter.title} | Rainbow Sicily Trek`
-  : 'Rainbow Sicily Trek';
-const isHome = Astro.url.pathname === '/';
+const pageTitle = frontmatter?.title ?? 'Rainbow Sicily Trek';
+const title = pageTitle === 'Rainbow Sicily Trek'
+  ? pageTitle
+  : `${pageTitle} | Rainbow Sicily Trek`;
+const basePath = import.meta.env.BASE_URL;
+const normalizedBasePath = basePath.endsWith('/') ? basePath : `${basePath}/`;
+const isHome = frontmatter?.home === true;
 ---
 
 <!doctype html>
@@ -19,8 +22,8 @@ const isHome = Astro.url.pathname === '/';
   <body>
     <header class="site-header">
       <nav class="site-nav" aria-label="Navigazione principale">
-        <a class="brand" href="/">Rainbow Sicily Trek</a>
-        {!isHome && <a class="back-link" href="/" aria-label="Torna all'archivio">Archivio</a>}
+        <a class="brand" href={normalizedBasePath}>Rainbow Sicily Trek</a>
+        {!isHome && <a class="back-link" href={normalizedBasePath} aria-label="Torna all'archivio">Archivio</a>}
       </nav>
     </header>
 

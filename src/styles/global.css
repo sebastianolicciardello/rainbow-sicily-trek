@@ -18,6 +18,7 @@
 
 html {
   background: var(--bg);
+  overflow-x: hidden;
 }
 
 body {
@@ -31,6 +32,7 @@ body {
   line-height: 1.72;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 a {
@@ -65,12 +67,17 @@ a:hover {
 }
 
 .brand {
+  min-width: 0;
   color: var(--text);
   font-size: 0.95rem;
   font-weight: 700;
   letter-spacing: 0.04em;
+  line-height: 1.1;
+  overflow: hidden;
   text-decoration: none;
+  text-overflow: ellipsis;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .back-link {
@@ -85,6 +92,7 @@ a:hover {
   width: min(100% - 32px, 760px);
   margin: 0 auto;
   padding: 56px 0 72px;
+  overflow-wrap: break-word;
 }
 
 .page-home {
@@ -110,14 +118,18 @@ h3 {
 
 h1 {
   max-width: 12ch;
-  font-size: clamp(2.45rem, 8vw, 5rem);
+  font-size: clamp(2.25rem, 7vw, 4.7rem);
   font-weight: 700;
+  overflow-wrap: break-word;
+  text-wrap: balance;
 }
 
 .page-post h1 {
   max-width: 720px;
   margin-bottom: 0.28em;
-  font-size: clamp(2.15rem, 6vw, 4.15rem);
+  font-size: clamp(2rem, 4.8vw, 3.35rem);
+  overflow-wrap: anywhere;
+  text-wrap: balance;
 }
 
 h2 {
@@ -160,6 +172,7 @@ li {
   font-size: clamp(1.35rem, 4vw, 2.2rem);
   line-height: 1.15;
   text-decoration: none;
+  text-wrap: balance;
 }
 
 .page-home li a::after {
@@ -194,7 +207,7 @@ img {
 figure img {
   width: 100%;
   max-height: 760px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
@@ -214,6 +227,7 @@ figure img {
 @media (max-width: 640px) {
   body {
     font-size: 16px;
+    line-height: 1.68;
   }
 
   .site-nav {
@@ -223,11 +237,7 @@ figure img {
   }
 
   .brand {
-    min-width: 0;
-    overflow: hidden;
     font-size: 0.86rem;
-    text-overflow: ellipsis;
-    white-space: nowrap;
   }
 
   .back-link {
@@ -235,20 +245,87 @@ figure img {
   }
 
   .back-link::before {
-    content: "Archivio";
-    font-size: 0.84rem;
+    content: "\2190";
+    display: inline-grid;
+    width: 36px;
+    height: 36px;
+    place-items: center;
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    color: var(--text);
+    font-size: 1rem;
   }
 
   .page {
     width: min(100% - 24px, 760px);
-    padding: 38px 0 56px;
+    padding: 34px 0 52px;
   }
 
   .page-home {
     min-height: calc(100vh - 123px);
+    justify-content: flex-start;
+    padding-top: clamp(56px, 16vh, 120px);
+  }
+
+  h1 {
+    max-width: 100%;
+    font-size: clamp(2.15rem, 11vw, 3.25rem);
+    line-height: 1.02;
+  }
+
+  .page-home h1 {
+    max-width: 8ch;
+  }
+
+  .page-post h1 {
+    font-size: clamp(1.9rem, 8.2vw, 2.4rem);
+    line-height: 1.06;
+  }
+
+  h2 {
+    margin-top: 1.9em;
+    padding-top: 1em;
+    font-size: clamp(1.45rem, 7vw, 1.85rem);
+  }
+
+  .page-home ul {
+    margin-top: 1.5rem;
+  }
+
+  .page-home li a {
+    padding: 16px 0;
+    font-size: clamp(1.45rem, 7vw, 2rem);
+  }
+
+  ul {
+    padding-left: 1rem;
   }
 
   figure {
     margin: 1.3rem 0;
+  }
+
+  figure img {
+    max-height: none;
+  }
+}
+
+@media (max-width: 390px) {
+  .site-nav,
+  .page,
+  .site-footer p {
+    width: min(100% - 20px, 760px);
+  }
+
+  .brand {
+    font-size: 0.8rem;
+  }
+
+  .page-post h1 {
+    font-size: clamp(1.78rem, 8vw, 2.1rem);
+  }
+
+  .page-home li a {
+    font-size: clamp(1.22rem, 6.2vw, 1.55rem);
   }
 }
