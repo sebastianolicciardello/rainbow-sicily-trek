@@ -1,0 +1,82 @@
+---
+layout: ../layouts/BaseLayout.astro
+title: Escursione 24 maggio - Alcantara, Malabotta e Argimusco
+---
+
+# Escursione 24 maggio - Alcantara, Malabotta e Argimusco
+
+Rainbow Sicily Trek
+
+## 📍 Ritrovo
+
+- 🕘 Ore 9:00 al Bar dell'Angolo, Gaggi
+
+- ☕ Coffee e sistemazione auto (cerchiamo di partire con meno auto possibili).
+
+## 💧 Escursione Gurne Alcantara
+
+- Una breve escursione immersi nella natura, tra cascate, pozze d'acqua cristallina e un momento di relax lungo il fiume.
+
+- Per i più coraggiosi: portate il costume se volete fare un bagno nelle freschissime acque dell'Alcantara! 🥶🌿
+
+- L'escursione durerà circa 2 ore. Se vi va, potete portare anche un telo per rilassarvi al sole e godervi il posto con calma.
+
+## 🥾 Escursione Bosco di Malabotta
+
+- Cercheremo di organizzarci con meno auto possibili per raggiungere il Bosco di Malabotta, a circa un'ora di strada.
+
+- Arriveremo verso l'orario di pranzo e faremo una breve camminata di circa 30 minuti fino a un'area attrezzata dove potremo pranzare immersi nella natura.
+
+- Il pomeriggio sarà dedicato all'esplorazione del bosco, tra sentieri, panorami e i suggestivi Patriarchi di Malabotta.
+
+- Il percorso previsto è ad anello, lungo circa 9 km, con 4-5 ore di camminata comprese le soste. Se necessario, potremo scegliere un sentiero più semplice per rientrare nei tempi oppure vivere l'esperienza con più calma e relax.
+
+## 🌄 Argimusco e tramonto
+
+- Nel tardo pomeriggio, intorno alle 18:00-19:00, raggiungeremo l'Altopiano dell'Argimusco per vivere insieme la magia del tramonto tra rocce megalitiche, panorami e atmosfere misteriose. ✨🪨
+
+- Ci prenderemo il tempo per goderci il luogo con calma, tra luce dorata e natura.
+
+- Chi avrà necessità di rientrare prima potrà naturalmente farlo in autonomia con la propria auto.
+
+## 🚗 Rientro
+
+- Dopo il tramonto (alle 20:30 circa) rientro verso le auto.
+
+- Arrivo stimato al Bar dell'Angolo alle 22:00.
+
+- Chi vuole può fermarsi a cena nei dintorni 🍽️
+
+## 🎒 Cosa portare
+
+- Scarpe comode da trekking
+- Pantaloni lunghi
+- 1,5-2 lt d'acqua
+- Giacca antivento/leggera
+- Pranzo al sacco 🥪 e snack
+- Bastoncini da trekking se li usate abitualmente
+- Facoltativi: costume e telo
+
+⚠ Alcuni punti possono essere più impegnativi se ha piovuto di recente; valuteremo eventuali deviazioni sul momento.
+
+Alcune foto dei luoghi che esploreremo! Tutte le foto sono state scattate e sono di proprietà di @s_licciardello.
+
+<figure><img src="https://i.postimg.cc/Hn8HTZWq/DSCF4465-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/13vdCkgR/IMG-20260511-093826-790.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/HkN27dc7/IMG-20260511-093938-874.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/yYQhwsT5/IMG-20260511-100335-892.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/LXK3NDVn/IMG-20260521-100518-606.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/mDYNq9dr/IMG-20260521-100522-410.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/VLLBGdXj/IMG-20260521-100524-750.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/Pr3bBTMQ/IMG-20260521-100528-659.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/yYYXQk0m/IMG-20260521-100532-439.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/W1dmVCWp/IMG-20260521-100554-545.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/3N073SJh/DSCF4335-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/gJTmFFdm/DSCF4478-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/mD5Bff47/DSCF7530-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/V6VmQQwh/DSCF7544-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/Y99Ms25Y/DSCF7567-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/B664VZrL/DSCF7576-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/SsskvQBX/DSCF7584-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/855N0k2r/IMG-6712-Large.jpg" alt=""></figure>
+<figure><img src="https://i.postimg.cc/k44qpM0D/IMG-6713-Large.jpg" alt=""></figure>

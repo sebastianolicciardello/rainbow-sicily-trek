@@ -1,0 +1,35 @@
+---
+import '../styles/global.css';
+
+const { frontmatter } = Astro.props;
+const title = frontmatter?.title
+  ? `${frontmatter.title} | Rainbow Sicily Trek`
+  : 'Rainbow Sicily Trek';
+const isHome = Astro.url.pathname === '/';
+---
+
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="Navigazione principale">
+        <a class="brand" href="/">Rainbow Sicily Trek</a>
+        {!isHome && <a class="back-link" href="/" aria-label="Torna all'archivio">Archivio</a>}
+      </nav>
+    </header>
+
+    <main class={isHome ? 'page page-home' : 'page page-post'}>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <p>Rainbow Sicily Trek</p>
+    </footer>
+  </body>
+</html>
