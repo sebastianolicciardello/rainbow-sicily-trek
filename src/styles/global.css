@@ -196,6 +196,7 @@ li {
 
 figure {
   margin: 2rem 0;
+  background: transparent;
 }
 
 img {
@@ -206,10 +207,10 @@ img {
 
 figure img {
   width: 100%;
-  max-height: 760px;
-  object-fit: contain;
+  height: auto;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+  background: transparent;
 }
 
 .site-footer {
